@@ -1,4 +1,0 @@
-
-set(CN_PROJECT_NAME "Nibblecoin")
-set(CN_CURRENCY_DISPLAY_NAME "Nibblecoin")
-set(CN_CURRENCY_TICKER "NBL")
